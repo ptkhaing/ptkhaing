@@ -1,6 +1,6 @@
-## Hi, I'm PTK 👋
+## Hi, I'm Kai 👋
 
-CS grad from University of Sunderland — full-stack developer with experience across databases, cybersecurity, and AI/ML. Also 5+ years in photography and content creation, which is where a couple of these projects come from.
+Computer Science graduate from University of Sunderland — full-stack developer with experience across databases, cybersecurity, and AI/ML. Also 5+ years in photography and content creation, which is where a couple of these projects come from.
 
 - 🔭 Currently building out a project portfolio spanning backend, AI/ML, and security
 - 🌱 Learning retrieval, evaluation, and agentic workflows
